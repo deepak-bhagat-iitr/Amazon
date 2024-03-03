@@ -1,5 +1,4 @@
- /* Reset and General Styles */
- * {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -264,7 +263,6 @@ footer {
   }
 }
 
-/* Adjust the hero image size for smaller screens */
 @media screen and (max-width: 480px) {
   .hero-section {
     height: 300px;
